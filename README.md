@@ -1,2 +1,1 @@
-# Parallel-Computation-Project
-Parallel Computation Project Using C++ 
+## Parallel Computation Project Using C++ 
